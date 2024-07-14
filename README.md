@@ -18,7 +18,7 @@ I am currently deepening my expertise in Python and Java.
 
 ### About Me
 
-Apart from my technical interests, I am also an enthusiast of biology, dinosaurs, space, music and geek culture.
+Apart from my technical interests, I am also an enthusiast of biology, dinosaurs, astronomy, music and geek culture.
 
 ### Contact Me
 
