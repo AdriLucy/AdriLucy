@@ -26,8 +26,11 @@ Apart from my technical interests, I am also an enthusiast of biology, dinosaurs
 - **LinkedIn:** [Lucy Adriana Oliveira](https://www.linkedin.com/in/lucy-adriana-oliveira-25b6b6158)
 
 ###
-[![Lucy-Adriana](https://github-readme-stats.vercel.app/api?username=AdriLucy&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-[![Lucy-Adriana](https://github-readme-stats.vercel.app/api/top-langs/?username=AdriLucy&hide=html&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+![AdriLucy's Stats](https://github-readme-stats.vercel.app/api?username=AdriLucy&theme=gotham&show_icons=true&hide_border=true&count_private=true)
+![AdriLucy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdriLucy&theme=gotham&hide_border=true)
+![AdriLucy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdriLucy&theme=gotham&show_icons=true&hide_border=true&layout=compact)
+<!--[![Lucy-Adriana](https://github-readme-stats.vercel.app/api?username=AdriLucy&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Lucy-Adriana](https://github-readme-stats.vercel.app/api/top-langs/?username=AdriLucy&hide=html&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)-->
 
 ###
 
