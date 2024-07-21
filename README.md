@@ -26,8 +26,8 @@ Apart from my technical interests, I am also an enthusiast of biology, dinosaurs
 - **LinkedIn:** [Lucy Adriana Oliveira](https://www.linkedin.com/in/lucy-adriana-oliveira-25b6b6158)
 
 ###
-[![Lucy-Adriana](https://github-readme-stats.vercel.app/api?username=AdriLucy&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Lucy-Adriana](https://github-readme-stats.vercel.app/api/top-langs/?username=AdriLucy&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Lucy-Adriana](https://github-readme-stats.vercel.app/api?username=AdriLucy&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Lucy-Adriana](https://github-readme-stats.vercel.app/api/top-langs/?username=AdriLucy&hide=html&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
 
