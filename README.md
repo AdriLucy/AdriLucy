@@ -2,19 +2,22 @@
 
 ## Hi, I'm Lucy Adriana!
 
-I am passionate about technology and currently eager to embark on a career in backend development. I am pursuing a degree in Analysis and Systems Development at Fatec and honing my skills in Object-Oriented Programming through courses on Alura.
+I am passionate about technology and currently eager to embark on a career in Data Engineering. I am pursuing a degree in Analysis and Systems Development at Fatec and enhancing my skills in data engineering and programming through courses on Alura.
 
-### Technical Skills
+### Technical Skills:
 
-- **Data Analysis Tools:** Excel, SQL, Power BI
-- **Programming Languages:** Java, Python, HTML, CSS, JavaScript, TypeScript
-- **Databases:** MySQL, SQL Server, MongoDB
-- **Frameworks:** Spring Boot, Angular
-- **Other Skills:** Advanced knowledge in Agile methodologies and project management
+- **Data Analysis**: SQL, Power BI, Excel.
+- **Programming Languages**: Python, Java, SQL.
+- **Databases**: MySQL, SQL Server, MongoDB.
+- **Frameworks/Libraries**: Pandas, NumPy, PyMongo, FastAPI, Spring Boot, Angular.
+- **Other Skills**: Agile methodologies (Scrum), Git, project management.
 
-### Currently Learning
+### Currently Learning:
 
-I am currently deepening my expertise in Python and Java.
+- Deepening knowledge in Python for data analysis and processing.
+- Exploring Big Data frameworks and tools like Apache Spark and AWS.
+- Creating and optimizing data pipelines, ETL, and processing large volumes of data.
+- Big Data and Cloud: tools like Hadoop, Spark, and AWS.
 
 ### About Me
 
