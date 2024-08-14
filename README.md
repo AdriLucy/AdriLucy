@@ -7,7 +7,7 @@ I am passionate about technology and currently eager to embark on a career in Da
 ### Technical Skills:
 
 - **Data Analysis**: SQL, Power BI, Excel.
-- **Programming Languages**: Python, Java, SQL.
+- **Programming Languages**: Python, Java.
 - **Databases**: MySQL, SQL Server, MongoDB.
 - **Frameworks/Libraries**: Pandas, NumPy, PyMongo, FastAPI, Spring Boot, Angular.
 - **Other Skills**: Agile methodologies (Scrum), Git, project management.
