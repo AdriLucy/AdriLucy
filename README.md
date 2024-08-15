@@ -1,6 +1,6 @@
-# Welcome to My GitHub Profile!
+# Welcome to My GitHub Profile !
 
-## Hi, I'm Lucy Adriana!
+## Hi, I'm :frog: Lucy Adriana :frog:!
 
 I am passionate about technology and currently eager to embark on a career in Data Engineering. I am pursuing a degree in Analysis and Systems Development at Fatec and enhancing my skills in data engineering and programming through courses on Alura.
 
