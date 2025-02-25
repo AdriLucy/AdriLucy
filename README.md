@@ -1,8 +1,8 @@
 # Welcome to My GitHub Profile !
 
-## Hi, I'm :frog: Lucy Adriana :frog:!
+## Hi, I'm Lucy Adriana!
 
-Studying to become a data engineer :computer::game_die::stuck_out_tongue_closed_eyes:	
+Studying to become a data engineer
 
 ### Technical Skills:
 
